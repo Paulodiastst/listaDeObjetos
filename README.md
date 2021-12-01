@@ -1,4 +1,4 @@
-# <p align="center">Diagrama de classe de uma lista de objetos feito em Java</p>
+# <p align="center">Trabalhando com listas de objetos, quando existem associações UM para MUITOS (1:N) ou  MUITOS para MUITOS (N:N), utilizando a classe ArrayList.</p>
 
 
 <p align="center">
